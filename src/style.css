@@ -1,0 +1,59 @@
+h1,
+p {
+  font-family: serif;
+}
+.main-header {
+  display: flex;
+  background-color: gainsboro;
+}
+svg {
+  font-size: 30px;
+}
+.MuiFormControl-root {
+  vertical-align: unset !important;
+}
+.time-header {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+.MuiPaper-elevation1 {
+  color: white;
+  background-color: #254fd6;
+}
+.MuiPaper-elevation1 p {
+  color: white;
+}
+.updated-date {
+  color: #81867a !important;
+  text-align: right;
+}
+.error-msg {
+  color: #e60d0d;
+}
+.weather-icon {
+  display: flex;
+}
+.MuiAvatar-circular {
+  margin: auto;
+  width: 50px;
+  height: 50px;
+  background-color: #e25e17;
+}
+.MuiPaper-elevation1 {
+  margin-top: 10px;
+}
+.MuiCardHeader-content {
+  text-align: center;
+}
+.MuiInput-root {
+  margin-right: 10px;
+  max-width: 200px;
+}
+.MuiTypography-body2 {
+  display: inline-flex;
+  width: 50%;
+}
+.MuiTypography-body2 > svg {
+  padding: 6%;
+}
